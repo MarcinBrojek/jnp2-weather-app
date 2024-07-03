@@ -1,0 +1,7 @@
+export const SET_FORECAST_OPTION = 'search/SET_FORECAST_OPTION';
+export const SET_MATCHING_CITIES = 'search/SET_MATCHING_CITIES';
+
+export const SEARCH_FORECAST = 'search/SEARCH_FORECAST';
+export const SEARCH_MATCHING_CITIES = 'search/SEARCH_MATCHING_CITIES';
+
+export const DISABLE_LOADER = 'search/DISABLE_LOADER';
